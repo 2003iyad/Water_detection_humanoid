@@ -1,7 +1,3 @@
-# Arm Workspace
-
-ROS2 workspace for the robot arm controller.
-
 ## Pretrained Model
 
 The trained model can be downloaded here:
